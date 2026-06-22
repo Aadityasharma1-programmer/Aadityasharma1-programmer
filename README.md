@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <a href="https://aadityasharma.vercel.app/" target="_blank">
-    <img src="https://AADITYASHARMA(1).png" width="100%" alt="Portfolio Banner">
+    <img src="https://AADITYA SHARMA(1).png" width="100%" alt="Portfolio Banner">
   </a>
 </p>
 
