@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> I'm Aaditya Sharma</h1>
+<h1 align="center"> I'm Aaditya Sharma </h1>
 
 <h3 align="center">
 <p align="center">
@@ -34,11 +34,15 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+## 💭 Developer Mindset
+
+> "First make it work,
+> then make it better,
+> then make it beautiful."
 ## ⚒️ Technical Skills
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,supabase,git,github,vscode,antigravity" />
-</p>
+
 
 ## 📊 GitHub Analytics
 
