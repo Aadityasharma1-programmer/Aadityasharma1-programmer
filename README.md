@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <a href="https://aadityasharma.vercel.app/" target="_blank">
-    <img src="aaditya_sharma.png" width="40%" alt="Portfolio Banner">
+    <img src="aaditya_sharma.png" width="50% " alt="Portfolio Banner">
   </a>
 </p>
 
