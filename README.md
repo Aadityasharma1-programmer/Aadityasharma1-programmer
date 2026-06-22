@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://aadityasharma.vercel.app/" target="_blank">
+    <img src="https://AADITYASHARMA(1).png" width="100%" alt="Portfolio Banner">
+  </a>
+</p>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Aadityasharma1-programmer)](https://git.io/streak-stats)
