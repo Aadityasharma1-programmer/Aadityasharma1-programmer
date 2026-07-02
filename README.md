@@ -10,11 +10,23 @@
 
 </div>
 
-<br>
+<table>
+<tr>
+<td width="60%">
+
+## 💬 Developer Mindset
 
 > *"First make it work, then make it better, then make it beautiful."*
 
-<br>
+I build with intent — clean code, deliberate architecture, and a bit of edge.
+Currently deep in AI-powered tooling and dashboard UX for **Codefusion**.
+
+</td>
+<td width="40%">
+<img src="assets/banner.png" width="100%" />
+</td>
+</tr>
+</table>
 
 ## About Me
 
