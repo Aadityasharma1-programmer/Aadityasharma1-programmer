@@ -1,59 +1,72 @@
-## Howdieeeeee 🥂
+<div align="center">
 
-<!--
-**Aadityasharma1-programmer/Aadityasharma1-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aaditya Sharma 👋
 
-Here are some ideas to get you started:
+### AI & Deep Learning Enthusiast | MERN Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center"> I'm Aaditya Sharma </h1>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://aaditya-sharma.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
-<h3 align="center">
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+%26+Deep+Learning+Enthusiast;Open+Source+Learner" />
-</p>
-</h3>
+</div>
 
+<br>
 
-<p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue?style=for-the-badge" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://aadityasharma.vercel.app/" target="_blank">
-    <img src="aaditya_sharma.png" width="50% " alt="Portfolio Banner">
-  </a>
-</p>
+> *"First make it work, then make it better, then make it beautiful."*
 
-## 💭 Developer Mindset
+<br>
 
-> "First make it work,
-> then make it better,
-> then make it beautiful."
-## ⚒️ Technical Skills
+## About Me
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,supabase,git,github,vscode,antigravity" />
+- 🔭 Currently building **Codefusion** — an AI-powered debugger dashboard
+- 🌱 Deep-diving into AI/Deep Learning alongside full-stack work
+- 💬 Ask me about React, Node.js, or MERN architecture
+- ⚡ Fun fact: I animate my dashboards with SVG + Three.js when I get the chance
 
+<br>
 
-## 📊 GitHub Analytics
+## Tech Stack
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aadityasharma1-programmer&show_icons=true&theme=tokyonight" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityasharma1-programmer&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+</div>
 
+<br>
 
+## GitHub Analytics
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aadityasharma1-programmer)](https://git.io/streak-stats)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aadityasharma1-programmer&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityasharma1-programmer&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadityasharma1-programmer&theme=dark&hide_border=true&background=0d1117" />
+
+</div>
+
+<br>
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aadityasharma1-programmer/Aadityasharma1-programmer/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aadityasharma1-programmer/Aadityasharma1-programmer/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Aadityasharma1-programmer/Aadityasharma1-programmer/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
