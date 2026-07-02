@@ -48,8 +48,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aadityasharma1-programmer&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityasharma1-programmer&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
+
 
 <br>
 
