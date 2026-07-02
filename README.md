@@ -10,23 +10,17 @@
 
 </div>
 
-<table>
-<tr>
-<td width="60%">
+<img align="right" src="assets/banner.png" width="280" alt="Banner" />
 
 ## 💬 Developer Mindset
 
 > *"First make it work, then make it better, then make it beautiful."*
 
 I build with intent — clean code, deliberate architecture, and a bit of edge.
-Currently deep in AI-powered tooling and dashboard UX for **Codefusion**.
 
-</td>
-<td width="40%">
-<img src="assets/banner.png" width="100%" />
-</td>
-</tr>
-</table>
+Currently deep in **Agentic AI** and **n8n workflows**.
+
+<br clear="right"/>
 
 ## About Me
 
