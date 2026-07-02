@@ -9,8 +9,9 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
 </div>
-
-<img align="right" src="assets/banner.png" width="280" alt="Banner" />
+<table>
+<tr>
+<td width="55%" valign="middle">
 
 ## 💬 Developer Mindset
 
@@ -20,7 +21,13 @@ I build with intent — clean code, deliberate architecture, and a bit of edge.
 
 Currently deep in **Agentic AI** and **n8n workflows**.
 
-<br clear="right"/>
+</td>
+
+<td width="45%" align="center" valign="middle">
+  <img src="assets/banner.png" width="280" alt="Banner"/>
+</td>
+</tr>
+</table>
 
 ## About Me
 
