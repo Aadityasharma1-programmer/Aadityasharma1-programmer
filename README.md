@@ -57,19 +57,9 @@ Currently deep in **Agentic AI** and **n8n workflows**.
 
 <br>
 
-## GitHub Analytics
-
-<div align="center">
-
-
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadityasharma1-programmer&theme=dark&hide_border=true&background=0d1117" />
-
-</div>
-
-<br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aadityasharma1-programmer&theme=github-dark&hide_border=true" />
+</p>
 
 ## Contribution Snake
 
