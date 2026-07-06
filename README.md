@@ -58,9 +58,8 @@ Currently deep in **Agentic AI** and **n8n workflows**.
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aadityasharma1-programmer&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Aadityasharma1-programmer&theme=github-dark&hide_border=true&v=1" />
 </p>
-
 ## Contribution Snake
 
 <div align="center">
