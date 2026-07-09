@@ -4,7 +4,7 @@
 
 ### AI & Deep Learning Enthusiast | MERN Stack Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://aaditya-sharma.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://aadityasharma.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
