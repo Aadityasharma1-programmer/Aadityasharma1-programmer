@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Aaditya Sharma 👋
+# Hi,I'm Aaditya Sharma 👋
 
 ### AI & Deep Learning Enthusiast | MERN Stack Developer
 
